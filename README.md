@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarpankaj3404
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Next.js
 <!-- 💞️ I’m looking to collaborate on -->
 - 📫 REach me on linkedIn www.linkedin.com/in/pankaj-kumar-513a10298
 
